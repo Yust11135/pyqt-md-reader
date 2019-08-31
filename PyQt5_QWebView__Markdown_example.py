@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/env python
 
-# Example using PyQt5 QWebView() и Markdown
+# Example using PyQt5 QWebView() and Markdown
 # Example from https://github.com/Yust11135/pyqt-md-reader/blob/master/PyQt5_QWebView__Markdown_example.py
 
 import sys
