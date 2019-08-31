@@ -5,9 +5,7 @@ simple PyQt app to read markdown format as HTML
 
 1- `pip install markdown`
 
-2- install [PyQt4](https://riverbankcomputing.com/software/pyqt/download)
-
-or install [PyQt5](https://www.riverbankcomputing.com/software/pyqt/download5)
+2- install [PyQt4](https://riverbankcomputing.com/software/pyqt/download) or [PyQt5](https://www.riverbankcomputing.com/software/pyqt/download5)
 
 For  PyQt4 open terminal and run ` python PyQt4_QtWebKit_Markdown_example.py`
 For  PyQt5 open terminal and run ` python PyQt5_QWebView__Markdown_example.py`
